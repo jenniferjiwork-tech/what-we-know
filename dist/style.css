@@ -4,3 +4,11 @@
 
 /* Align contributor names and roles consistently across cards and details. */
 .card-footer,.person-name,.detail-person{text-align:left}
+
+/* Dashboard spacing and search alignment. */
+.app>aside{padding-top:24px}.brand{padding-left:18px;padding-right:18px;min-height:46px;margin-bottom:30px}.mark{transform:translateY(-5px)}
+.search{display:flex;align-items:center;min-height:50px;padding:0 16px;gap:12px}.search>span{display:flex;align-items:center;justify-content:center;line-height:1;flex-shrink:0}.search input{margin:0;border:0;background:transparent;padding:14px 0;min-width:0;line-height:20px;flex:1;width:auto}
+.person-card h2{text-align:left;margin-bottom:8px}.person-card>.muted{text-align:left}
+@media(max-width:700px){.app>aside{padding-top:20px}.brand{padding-left:0;padding-right:0}}
+
+.brand{padding-right:0}.brand strong{white-space:nowrap}
