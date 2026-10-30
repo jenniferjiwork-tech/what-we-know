@@ -14,6 +14,13 @@ Open http://localhost:4173.
 
 ## Prototype features
 
+- Open a work-in-progress conversation with context and review materials
+- Review fictional portal pages and draft/revised research tasks
+- Reply across teams and connect previous experiences
+- Start a new conversation with a clear request for input
+- Follow an illustrative author update showing what changed
+
+
 - Search and filter team experiences
 - Read context, interpretation, and limitations
 - Save experiences for later
@@ -26,7 +33,9 @@ All people, company details, and study results are fictional. Contributions, sav
 
 - `dist/index.html` — application shell
 - `dist/style.css` — responsive interface
-- `dist/app.js` — fictional content and interactions
+- `dist/app.js` — shared experience content and interactions
+- `dist/conversations.js` — open conversations, discussion, and review materials
+- `dist/conversations.css` — conversation layouts
 - `.openai/hosting.json` — existing private Sites deployment identity
 
 The interface loads DM Sans and Manrope from Google Fonts, with system-font fallbacks.
