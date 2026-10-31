@@ -2,6 +2,12 @@
 
 An interactive prototype exploring how colleagues discover and apply one another’s experiences during everyday work.
 
+## GitHub Pages
+
+The deployment workflow publishes only `dist/` when changes are pushed to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. GitHub Pages must first be available for the repository’s visibility and account plan.
+
+Expected address after deployment: https://jenniferjiwork-tech.github.io/what-we-know/
+
 ## Run locally
 
 No installation or build is required. Serve the `dist` folder with any static web server, for example:
