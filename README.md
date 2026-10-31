@@ -6,7 +6,7 @@ An interactive prototype exploring how colleagues discover and apply one another
 
 The deployment workflow publishes only `dist/` when changes are pushed to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. GitHub Pages must first be available for the repository’s visibility and account plan.
 
-Expected address after deployment: https://jenniferjiwork-tech.github.io/what-we-know/
+**[Open the live prototype](https://jenniferjiwork-tech.github.io/what-we-know/)** · [Reset the laboratory demo](https://jenniferjiwork-tech.github.io/what-we-know/demo.html)
 
 ## Run locally
 
